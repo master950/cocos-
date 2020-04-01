@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jumpDown",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2ce61b8e-e49e-4d95-9ca9-543dadd2b91f"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "af237903-321c-458e-9b9b-70132a5f3da9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

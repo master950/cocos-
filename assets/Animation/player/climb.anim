@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "climb",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0ac5fc1f-c1d0-4074-8877-c8ff91ddd907"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "d75522b7-194a-4186-8943-567e1546ba4a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "fbc6c380-a563-4fd8-bb59-41d9ab2beb69"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e1ccc7f7-3233-46c1-b154-6a9dab3df3af"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

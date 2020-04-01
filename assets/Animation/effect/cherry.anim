@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cherry",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ca566ffc-cbeb-438e-ad45-46fe23d5f620"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "84c2d7e2-c160-4a47-9b46-b3637ccb78e2"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "21bf9e82-edf9-4712-9ed9-660b7d770ff4"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b6ba451e-f052-468e-a3b0-b1a1e2d168c1"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "74ec8568-c4e9-45ba-adfb-6618e4c9452f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

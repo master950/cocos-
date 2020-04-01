@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jumpUp",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3662df62-a9e1-46ca-9a7d-fadc375683ff"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "0bdc270f-56ff-46bf-9f24-b4a3d31ed83a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "frogidle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fbb35aab-b9cf-4188-9fea-a6b68713c5a3"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "97ce7920-732a-4358-ada4-4ce64b8ae793"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "71f89623-1e87-4bf6-b048-defdf3b63b1c"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "f6744b51-252b-4d95-af6a-78abc68a173b"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "fbb35aab-b9cf-4188-9fea-a6b68713c5a3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eagle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5daeaf3b-e142-4759-a27c-8697c5fa60b0"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "b4884a92-aad8-4ccb-9df7-361911e1bad4"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "7e79648f-dc42-4513-ba48-bc08ca049139"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "060c7522-8a3a-45be-8022-7eb9c8e24012"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

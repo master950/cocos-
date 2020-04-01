@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shineStar",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "dcd609dc-12a8-44da-8abd-53efa53e73b6"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "d55296d0-0252-46d3-a047-274ae2847855"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "8d4cbb75-0c9d-42eb-8a5f-0a8cffded89f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e61e858d-7e31-41bf-a642-7d3365c88b8d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "dcd609dc-12a8-44da-8abd-53efa53e73b6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
